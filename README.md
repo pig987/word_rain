@@ -8,3 +8,6 @@ Features
 - 단어 queue 시스템
 - 타이머 기반 낙하
 - 성공/실패 판정
+
+영상 링크
+https://youtu.be/jNsLUqP5N6w
